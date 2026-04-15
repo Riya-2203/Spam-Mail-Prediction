@@ -24,7 +24,24 @@ This project is a Machine Learning-based system that classifies emails as spam o
 ## 📈 Output
 - Spam ❌
 - Not Spam ✅
-
+  
+## 📂 Project Structure
+- spam_mail_prediction.ipynb → Main model
+- requirements.txt → Libraries used
+- Screenshot.png → Output image
+  
 ## 💡 Future Improvements
 - Build a web app using Streamlit
-- Improve accuracy using advanced models
+- Improve accuracy using advanced model
+  
+## 📸 Output Screenshot
+![Output](Screenshot%20(310).png)
+
+## 📊 Model Performance
+- Accuracy: 95% (or your actual accuracy)
+  
+## 📂 Project Structure
+- spam_mail_prediction.ipynb → Main model
+- requirements.txt → Libraries used
+- Screenshot.png → Output image
+
